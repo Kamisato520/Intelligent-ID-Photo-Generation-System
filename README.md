@@ -19,7 +19,7 @@ To set up the Intelligent ID Photo Generation System, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/IDPhotoGenerator.git
+   git https://github.com/Kamisato520/Intelligent-ID-Photo-Generation-System.git
    cd IDPhotoGenerator
    ```
 
